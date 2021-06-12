@@ -5,7 +5,7 @@
 
 Hi, I'm Ega Alifya Firnando, beginner developer from Indonesia. ✌
 
-- 🔭 I’m currently studying on [State Polytechnic of Jember](https://www.polije.ac.id/)
+- 📝 I’m currently studying on [State Polytechnic of Jember](https://www.polije.ac.id/)
 - 🎯 I’m currently learning Javascript and PHP
 - 💬 Ask me about anything [here](mailto:ega.alfy@gmail.com)
 
