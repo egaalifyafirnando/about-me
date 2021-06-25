@@ -1,4 +1,4 @@
-### Hi there, I'm [Ega!](https://egaalifyafirnando.github.io) 👋
+### Hi there, I'm [Ega!](https://www.linkedin.com/in/ega-alifya-firnando-9740911b1/) 👋
 
 <br />
 <br />
