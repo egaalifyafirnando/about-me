@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egaalifyafirnando&label=Profile%20views&color=0e75b6&style=flat" alt="egaalifyafirnando" /> </p>
 
+- 🌱 I’m currently learning **Front-End Framework like Vue and React**
+
+- 👨‍💻 All of my projects are available at [https://egaalifyafirnando.github.io](https://egaalifyafirnando.github.io)
+
+- 💬 Ask me about **PHP especially Laravel, Linux System**
+
+- 📫 How to reach me **ega.alfy@gmail.com**
+
+- ⚡ Fun fact **Honestly, I am very very funny:)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
