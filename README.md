@@ -5,12 +5,10 @@
 
 - 🌱 I’m currently learning **Front-End Framework like Vue and React**
 
-- 👨‍💻 All of my projects are available at [https://egaalifyafirnando.github.io](https://egaalifyafirnando.github.io) and (https://gitlab.com/egaalifyafirnando)
+- 👨‍💻 All of my projects are available at (experiment project) https://egaalifyafirnando.github.io and https://gitlab.com/egaalifyafirnando (working project)
 
 - 💬 Ask me about **PHP especially Laravel, Linux System**
 
 - 📫 How to reach me **ega.alfy@gmail.com**
-
-- ⚡ Fun fact **Honestly, I am very very funny:)**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egaalifyafirnando&show_icons=true&locale=en" alt="egaalifyafirnando" /></p>
