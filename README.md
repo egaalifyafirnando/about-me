@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Front-End Framework like Vue and React**
 
-- 👨‍💻 All of my projects are available at [https://egaalifyafirnando.github.io](https://egaalifyafirnando.github.io)
+- 👨‍💻 All of my projects are available at [https://egaalifyafirnando.github.io](https://egaalifyafirnando.github.io) and (https://gitlab.com/egaalifyafirnando)
 
 - 💬 Ask me about **PHP especially Laravel, Linux System**
 
